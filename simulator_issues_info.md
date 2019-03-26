@@ -13,3 +13,4 @@
   + Change Regional Formats (Ubuntu: Language Support -> Regional Formats)
   + Select English (US)
   + Restart
+lol
